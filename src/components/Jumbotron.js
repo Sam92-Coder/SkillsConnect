@@ -10,7 +10,7 @@ const Styles = styled.div`
     background: url(${homeImage}) no-repeat fixed bottom;
     background-size: cover;
     color: black;
-    padding-top: 50px;
+    padding-top: 30px;
     font-family: comic sans;
     text-align: center;
     font-size: 30px;
@@ -36,7 +36,7 @@ export const Jumbotron = () => (
         <Jumbo fluid className="jumbo">
             <div className="overlay"></div>
             <Container>
-                <h1 style={{ color:"#FFFFFF"}}>Welcome!</h1>
+                <h1 style={{ color:"#FFFFFF"}}>SkillsConnect!</h1>
                 <p> An Innovative Development platform. Improve Knowledge and Experience, Portfolio Quality, Grow your idea and business.</p>
             </Container>
             </Jumbo>
