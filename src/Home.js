@@ -25,7 +25,6 @@ export const Home = () => (
 <h2 style={{color:"brown"}}><b>About SkillsConnect</b></h2>
 <p>SkillsConnect is an Innovative Platform marketPlace were Software Developers, Softeware Designers, Content Writers and Creators, Digital Marketers, Graphic Designers and freelancers etc register their profiles, share experience and connect with others or Employers. All fields of discipline are recommended to profiled with SkillsConnect and Connect digitally. This platform recruits, trains and deploys young professionals from all over the world to become professionals in their fields of study.
 </p>
-<p>Its also deepen the status of young people in the Tech Ecosystem as key actors in the world ICT development targets and goals, enhancing their participation in innovative Training, programs and initiatives towards the realization of their dreams – ‘The World We Want’. It brings people together to share skills, knowledge, creativity and learning to build a more integrated, prosperous, and peaceful Continent driven by its Innovative creativity.</p>
 
  <hr style={{ color: "white" }}></hr>
 <section className="services">
@@ -35,9 +34,7 @@ export const Home = () => (
         <div className="service-description">
             <h3>knowledge Sharing</h3>
             <div>
-<p>simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-<p>simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-<p>simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+<p>We dig in KKnowldge and share it. We thrive in deepen the status of young people in the Tech Ecosystem as key actors in the world ICT development targets and goals, enhancing their participation in innovative Training, programs and initiatives towards the realization of their dreams – ‘The World We Want’. It brings people together to share skills, knowledge, creativity and learning to build a more integrated, prosperous, and peaceful Continent driven by its Innovative creativity.</p>
 <p>simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
 <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
             </div>
