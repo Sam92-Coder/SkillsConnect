@@ -76,7 +76,7 @@ export const Home = () => (
 <section>
     <h2>Join our Newsletter</h2>
     <form className="newsletter">
-        <input type ="email" placeholder=" Your Email Address" />
+        <input type ="email" placeholder=" Email" />
         <input type ="submit" value="Join Now!" />
     </form>
 </section>
