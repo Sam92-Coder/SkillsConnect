@@ -37,7 +37,7 @@ export const Jumbotron = () => (
             <div className="overlay"></div>
             <Container>
                 <h1 style={{ color:"#FFFFFF"}}>SkillsConnect!</h1>
-                <p> An Innovative Development platform. Improve Knowledge and Experience, Portfolio Quality, Grow your idea and business.</p>
+                <p> An Innovative Development platform. Improve Knowledge and Experience. Portfolio with us Today.</p>
             </Container>
             </Jumbo>
     </Styles>
